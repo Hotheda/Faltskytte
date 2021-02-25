@@ -1,5 +1,5 @@
 # Faltskytte
-Nativa app for Android developed in Eclipse IDE.
+Native app for Android developed in Eclipse IDE.
 
 Timer for shooting, timer and highlighted commands to help the supervisor.
 
